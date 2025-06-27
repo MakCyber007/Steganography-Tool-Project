@@ -23,7 +23,7 @@ To use the LSB Steganography Tool:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/LSB-Steganography-Tool.git](https://github.com/YourGitHubUsername/LSB-Steganography-Tool.git)
+    git clone [https://github.com/MakCyber007/LSB-Steganography-Tool.git](https://github.com/MakCyber007/LSB-Steganography-Tool.git)
     cd LSB-Steganography-Tool
     ```
 2.  **Choose your preferred method:**
