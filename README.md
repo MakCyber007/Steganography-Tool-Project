@@ -6,7 +6,7 @@
 
 ## 💡 Overview
 
-The **LSB Steganography Tool** is a lightweight, user-friendly Python application that allows you to **hide secret text messages or files within image files** and subsequently **extract them**. It utilizes the Least Significant Bit (LSB) steganography technique, making the hidden data visually imperceptible.
+The **LSB Steganography Tool** is a lightweight, user-friendly Python application that allows you to **hide secret text messages or files within image files** and subsequently **extract them**. It utilizes the Least Significant Bit (LSB) steganography technique, making the hidden data visually imperceptible to the human eye.
 
 ### Key Features:
 
