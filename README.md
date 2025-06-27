@@ -1,4 +1,3 @@
-# Steganography-Tool-Project
 # LSB Steganography Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -21,19 +20,16 @@ The **LSB Steganography Tool** is a lightweight, user-friendly Python applicatio
 
 To use the LSB Steganography Tool:
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/MakCyber007/LSB-Steganography-Tool.git](https://github.com/MakCyber007/LSB-Steganography-Tool.git)
-    cd LSB-Steganography-Tool
-    ```
-2.  **Choose your preferred method:**
+
+1.  **Choose your preferred method:**
 
     * **Windows Installer (Recommended for most users):**
         Download `Steganography Tool Easy Setup.exe`. This provides a guided installation, creating desktop and start menu shortcuts for convenience.
     * **Portable Windows Executable:**
         Download `Steganography Tool.exe`. Run this file directly; no installation is needed, but shortcuts are not created. Recommended for technical users.
     * **Python Script:**
-        Requires Python and necessary libraries installed. This offers granular control and allows code modification.
+        Requires Python and necessary libraries installed. This offers granular control and allows code modification. Download `Steganography Tool.py`.
+       * **Install Python**
         * **Install Dependencies:**
             ```bash
             pip install Pillow tkinterdnd2
